@@ -1,5 +1,5 @@
 ## Project Overview
-Developed a comprehensive pipeline to translate YouTube videos, encompassing:
+Developed a comprehensive pipeline to translate YouTube videos :
 
 - Downloading video and audio using `yt-dlp`.
 - Transcribing audio via OpenAI's Whisper model.
